@@ -66,7 +66,7 @@ setup(
                  optimal yield generation.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Sturdy-Subnet/sturdy-subnet",
+    url="https://github.com/rbnlb/sturdy-subnet",
     author="Syeam Bin Abdullah",
     packages=find_packages(),
     include_package_data=True,
